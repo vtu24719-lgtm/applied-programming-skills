@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/2418-sort-the-people) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0739-daily-temperatures) |
