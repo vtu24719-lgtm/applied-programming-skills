@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
