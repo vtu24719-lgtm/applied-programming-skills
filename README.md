@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [2418-sort-the-people](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [2418-sort-the-people](https://github.com/vtu24719-lgtm/applied-programming-skills/tree/master/2418-sort-the-people) |
